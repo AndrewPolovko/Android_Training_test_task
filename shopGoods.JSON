@@ -1,0 +1,14 @@
+[
+  {
+    "category": "FOOTBALL",
+    "title": "ball",
+    "price": 120,
+    "amount": 5
+  },
+  {
+    "category": "HOCKEY",
+    "title": "hockey stick",
+    "price": 140,
+    "amount": 3
+  }
+]
